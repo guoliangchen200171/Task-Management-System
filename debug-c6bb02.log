@@ -1,0 +1,10 @@
+{"sessionId":"c6bb02","location":"AuthController.login","message":"entry","data":{"hypothesisId":"H-E","username":"ry@gmail.com"},"timestamp":1780154247477,"hypothesisId":"H-E","runId":"pre-fix"}
+{"sessionId":"c6bb02","location":"AuthController.login","message":"success","data":{"hypothesisId":"H-E","role":"USER","userId":4},"timestamp":1780154247574,"hypothesisId":"H-E","runId":"pre-fix"}
+{"sessionId":"c6bb02","location":"AuthController.login","message":"entry","data":{"hypothesisId":"H-E","username":"ry@gmail.com"},"timestamp":1780154337258,"hypothesisId":"H-E","runId":"pre-fix"}
+{"sessionId":"c6bb02","location":"AuthController.login","message":"unauthorized","data":{"hypothesisId":"H-C"},"timestamp":1780154337340,"hypothesisId":"H-C","runId":"pre-fix"}
+{"sessionId":"c6bb02","location":"AuthController.login","message":"entry","data":{"hypothesisId":"H-E","username":"ry@gmail.com"},"timestamp":1780154338945,"hypothesisId":"H-E","runId":"pre-fix"}
+{"sessionId":"c6bb02","location":"AuthController.login","message":"unauthorized","data":{"hypothesisId":"H-C"},"timestamp":1780154339020,"hypothesisId":"H-C","runId":"pre-fix"}
+{"sessionId":"c6bb02","location":"AuthController.login","message":"entry","data":{"hypothesisId":"H-E","username":"ry@gmail.com"},"timestamp":1780154342416,"hypothesisId":"H-E","runId":"pre-fix"}
+{"sessionId":"c6bb02","location":"AuthController.login","message":"success","data":{"hypothesisId":"H-E","role":"USER","userId":4},"timestamp":1780154342503,"hypothesisId":"H-E","runId":"pre-fix"}
+{"sessionId":"c6bb02","location":"AuthController.login","message":"entry","data":{"hypothesisId":"H-E","username":"ry@gmail.com"},"timestamp":1780154356359,"hypothesisId":"H-E","runId":"pre-fix"}
+{"sessionId":"c6bb02","location":"AuthController.login","message":"success","data":{"hypothesisId":"H-E","role":"USER","userId":4},"timestamp":1780154356442,"hypothesisId":"H-E","runId":"pre-fix"}
